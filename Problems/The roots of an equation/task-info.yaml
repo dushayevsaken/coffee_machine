@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2190
+status: Solved
+feedback:
+  message: "Failed test #2 of 10. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n0\n1\n-6\n5\nCorrect output:\n1\n5\n\nYour code output:\n\
+    1 \n5\n"
+  time: Thu, 23 Jul 2020 03:53:50 UTC
+record: -1
